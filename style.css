@@ -1,0 +1,53 @@
+.nav-text {
+    color: #9460E9;
+}
+
+.avatar1 {
+    height: 48px;
+    width: 48px;
+}
+
+.avatar2 {
+    height: 26px;
+    width: 24px;
+}
+
+.avatar3 {
+    height: 26px;
+    width: 24px;
+}
+
+.left-nav {
+    font-family: 'Roboto';
+    font-weight: 500;
+    height: 25px;
+    width: 63px;
+}
+
+.btn {
+    background: #9460E9;
+    border-radius: 33.5px;
+}
+
+.btn2 {
+    border: 1px solid #FFFFFF;
+    border-radius: 33.5px;
+}
+
+.headphone {
+    transform: matrix(0.99, 0.13, -0.13, 0.99, 0, 0);
+
+}
+
+.plus-img {
+    top: 90%;
+}
+
+.rectangle {
+    left: 500px;
+}
+
+.discountBtn {
+    border-radius: 61px;
+    background: #AB8DE5;
+}
